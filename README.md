@@ -11,11 +11,11 @@
 
 > [!NOTE]
 > Worck at custom ai
-- [x] Start project
-- [ ] Create good brain data
-- [ ] Add multi core
-- [ ] Create visual progam 
-- [ ] Add tts
+- [x] Start project <img src="https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="100% завершено" />
+- [x] Create good brain data <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="75% завершено" />
+- [ ] Add multi core <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600" width="7%" alt="0% завершено" />
+- [ ] Create visual progam <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="0% завершено" />
+- [ ] Add tts <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="0% завершено" />
 
 ---
 
