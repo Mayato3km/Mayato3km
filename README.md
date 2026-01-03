@@ -4,7 +4,7 @@
 
 
 <div align="center">
-    <h3 align="center">[˚ ༘♡ ·˚ ₊˚ˑ༄ؘ Mayatoؘ ༄ˑ˚₊ ˚· ♡༘ ˚](https://guns.lol/mayato)</h3>
+    <h3 align="center">˚ ༘♡ ·˚ ₊˚ˑ༄ؘ Mayatoؘ ༄ˑ˚₊ ˚· ♡༘ ˚</h3>
 </div>
 
 ---
