@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">'•.¸♡ Languages ♡¸.•'</h3>
+  <h3 align="center">＊*•̩̩͙✩•̩̩͙*˚Languages˚*•̩̩͙✩•̩̩͙*˚＊</h3>
 </div>
 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
