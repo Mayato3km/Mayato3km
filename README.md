@@ -1,10 +1,10 @@
 <div align="center">
-    <img align="right" src="https://github.com/user-attachments/assets/e0aebf0b-423e-4299-b4ca-c3626f51b888" width="40%">
+    <img align="right" src="https://github.com/user-attachments/assets/e0aebf0b-423e-4299-b4ca-c3626f51b888" width="55%">
 </div>
 
 
 <div align="center">
-    <h3 align="center">˚ ༘♡ ·˚ ₊˚ˑ༄ؘMayatoؘ༄ˑ˚₊ ˚· ♡༘ ˚</h3>
+    <h3 align="center">˚ ༘♡ ·˚ ₊˚ˑ༄ؘ Mayatoؘ ༄ˑ˚₊ ˚· ♡༘ ˚</h3>
 </div>
 
 ---
