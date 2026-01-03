@@ -32,8 +32,9 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-
-
+<!--
+<img src="">
+-->
 ---
 
 <div align="center">
@@ -54,7 +55,10 @@
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-UnJs-%23ECDC5A?style=for-the-badge&logo=UnJs&logoColor=black"> 
-
+<!--
+<img src="">
+Елси захочу еще что то добавить
+-->
 <!--
 **Mayato3km/Mayato3km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
