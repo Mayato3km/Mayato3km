@@ -8,7 +8,7 @@
 ---
 
 > [!NOTE]
-> Worck at custom ai
+> Work at custom ai
 - [x] Start project <img src="https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="100% завершено" />
 - [x] Create good brain data <img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="75% завершено" />
 - [ ] Add multi core <img src="https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600" width="7%" alt="14% завершено" />
