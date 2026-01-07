@@ -13,7 +13,7 @@
 - [x] Create good brain data <img src="https://geps.dev/progress/78?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="78% завершено" />
 - [ ] Add multi core <img src="https://geps.dev/progress/28?dangerColor=800000&warningColor=ff9900&successColor=006600" width="7%" alt="28% завершено" />
 - [ ] Create visual progam <img src="https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="0% завершено" />
-- [ ] Add tts <img src="https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="3% завершено" />
+- [ ] Add tts <img src="https://geps.dev/progress/9?dangerColor=800000&warningColor=ff9900&successColor=006600"  width="7%" alt="9% завершено" />
 
 ---
 
